@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RestaurantMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_key">AIzaSyA1kIc_ReAF7oP6p1fwMPrELflxQ-ieMFs</string>
+    <string name="title_activity_show_all_maps">Map</string>
+</resources>
